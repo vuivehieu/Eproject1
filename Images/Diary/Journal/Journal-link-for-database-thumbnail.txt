@@ -1,0 +1,9 @@
+J - Journal - list link ảnh cho THUMBNAIL (các ảnh đuôi 02, 03, ... cho phần detail sản ph
+J-001-01
+J-002-01
+J-003-01
+J-004-01
+J-005-01
+J-006-01
+
+
